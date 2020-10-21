@@ -1,0 +1,85 @@
+2020-10-14 16:19:38 INFO  Keywords:35 - Navigate is called
+2020-10-14 16:19:40 INFO  Keywords:213 - Waiting for webElement...homepage.products
+2020-10-14 16:19:50 INFO  Keywords:213 - Waiting for webElement...homepage.loans
+2020-10-14 16:28:42 INFO  Keywords:35 - Navigate is called
+2020-10-14 16:28:48 INFO  Keywords:53 - InputText is called
+2020-10-14 16:28:48 INFO  Keywords:213 - Waiting for webElement...googlepage.Searchbox
+2020-10-14 16:28:54 INFO  Keywords:35 - Navigate is called
+2020-10-14 16:29:02 INFO  Keywords:53 - InputText is called
+2020-10-14 16:29:02 INFO  Keywords:213 - Waiting for webElement...login.email
+2020-10-14 16:29:13 INFO  Keywords:53 - InputText is called
+2020-10-14 16:29:13 INFO  Keywords:213 - Waiting for webElement...login.password
+2020-10-14 16:29:13 INFO  Keywords:216 - Element found...login.password
+2020-10-14 16:41:54 INFO  Keywords:35 - Navigate is called
+2020-10-14 16:41:58 INFO  Keywords:53 - InputText is called
+2020-10-14 16:41:58 INFO  Keywords:213 - Waiting for webElement...googlepage.SearchBox
+2020-10-14 16:41:58 INFO  Keywords:216 - Element found...googlepage.SearchBox
+2020-10-14 16:42:03 INFO  Keywords:35 - Navigate is called
+2020-10-14 16:42:06 INFO  Keywords:53 - InputText is called
+2020-10-14 16:42:06 INFO  Keywords:213 - Waiting for webElement...login.email
+2020-10-14 16:42:16 INFO  Keywords:53 - InputText is called
+2020-10-14 16:42:16 INFO  Keywords:213 - Waiting for webElement...login.password
+2020-10-14 16:42:16 INFO  Keywords:216 - Element found...login.password
+2020-10-14 16:44:49 INFO  Keywords:35 - Navigate is called
+2020-10-14 16:44:53 INFO  Keywords:53 - InputText is called
+2020-10-14 16:44:53 INFO  Keywords:213 - Waiting for webElement...googlepage.SearchBox
+2020-10-14 16:44:53 INFO  Keywords:216 - Element found...googlepage.SearchBox
+2020-10-14 16:44:58 INFO  Keywords:35 - Navigate is called
+2020-10-14 16:45:03 INFO  Keywords:53 - InputText is called
+2020-10-14 16:45:03 INFO  Keywords:213 - Waiting for webElement...login.email
+2020-10-14 16:45:13 INFO  Keywords:53 - InputText is called
+2020-10-14 16:45:13 INFO  Keywords:213 - Waiting for webElement...login.password
+2020-10-14 16:45:13 INFO  Keywords:216 - Element found...login.password
+2020-10-14 17:17:11 INFO  Keywords:35 - Navigate is called
+2020-10-14 17:17:15 INFO  Keywords:53 - InputText is called
+2020-10-14 17:17:15 INFO  Keywords:213 - Waiting for webElement...googlepage.SearchBox
+2020-10-14 17:17:16 INFO  Keywords:216 - Element found...googlepage.SearchBox
+2020-10-14 17:17:20 INFO  Keywords:35 - Navigate is called
+2020-10-14 17:17:27 INFO  Keywords:53 - InputText is called
+2020-10-14 17:17:27 INFO  Keywords:213 - Waiting for webElement...login.email
+2020-10-14 17:17:38 INFO  Keywords:53 - InputText is called
+2020-10-14 17:17:38 INFO  Keywords:213 - Waiting for webElement...login.password
+2020-10-14 17:17:38 INFO  Keywords:216 - Element found...login.password
+2020-10-14 17:20:52 INFO  Keywords:35 - Navigate is called
+2020-10-14 17:20:55 INFO  Keywords:53 - InputText is called
+2020-10-14 17:20:55 INFO  Keywords:213 - Waiting for webElement...googlepage.SearchBox
+2020-10-14 17:21:00 INFO  Keywords:35 - Navigate is called
+2020-10-14 17:21:08 INFO  Keywords:53 - InputText is called
+2020-10-14 17:21:08 INFO  Keywords:213 - Waiting for webElement...login.email
+2020-10-14 17:21:18 INFO  Keywords:53 - InputText is called
+2020-10-14 17:21:18 INFO  Keywords:213 - Waiting for webElement...login.password
+2020-10-14 17:21:19 INFO  Keywords:216 - Element found...login.password
+2020-10-14 17:24:45 INFO  Keywords:35 - Navigate is called
+2020-10-14 17:24:49 INFO  Keywords:53 - InputText is called
+2020-10-14 17:24:49 INFO  Keywords:213 - Waiting for webElement...googlepage.SearchBox
+2020-10-14 17:24:54 INFO  Keywords:35 - Navigate is called
+2020-10-14 17:25:03 INFO  Keywords:53 - InputText is called
+2020-10-14 17:25:03 INFO  Keywords:213 - Waiting for webElement...login.email
+2020-10-14 17:25:14 INFO  Keywords:53 - InputText is called
+2020-10-14 17:25:14 INFO  Keywords:213 - Waiting for webElement...login.password
+2020-10-14 17:25:14 INFO  Keywords:216 - Element found...login.password
+2020-10-14 17:27:11 INFO  Keywords:35 - Navigate is called
+2020-10-14 17:27:13 INFO  Keywords:53 - InputText is called
+2020-10-14 17:27:13 INFO  Keywords:213 - Waiting for webElement...googlepage.SearchBox
+2020-10-14 17:27:18 INFO  Keywords:35 - Navigate is called
+2020-10-14 17:27:30 INFO  Keywords:53 - InputText is called
+2020-10-14 17:27:30 INFO  Keywords:213 - Waiting for webElement...login.email
+2020-10-14 17:27:40 INFO  Keywords:53 - InputText is called
+2020-10-14 17:27:40 INFO  Keywords:213 - Waiting for webElement...login.password
+2020-10-14 17:27:41 INFO  Keywords:216 - Element found...login.password
+2020-10-14 17:31:20 INFO  Keywords:35 - Navigate is called
+2020-10-14 17:31:26 INFO  Keywords:53 - InputText is called
+2020-10-14 17:31:26 INFO  Keywords:213 - Waiting for webElement...googlepage.SearchBox
+2020-10-14 17:31:31 INFO  Keywords:35 - Navigate is called
+2020-10-14 17:31:39 INFO  Keywords:53 - InputText is called
+2020-10-14 17:31:39 INFO  Keywords:213 - Waiting for webElement...login.email
+2020-10-14 17:31:50 INFO  Keywords:53 - InputText is called
+2020-10-14 17:31:50 INFO  Keywords:213 - Waiting for webElement...login.password
+2020-10-14 17:31:50 INFO  Keywords:216 - Element found...login.password
+2020-10-14 17:33:40 INFO  Keywords:35 - Navigate is called
+2020-10-14 17:33:44 INFO  Keywords:66 - ClickOnLink is called
+2020-10-14 17:33:44 INFO  Keywords:213 - Waiting for webElement...googlepage.SearchBox
+2020-10-14 17:37:08 INFO  Keywords:35 - Navigate is called
+2020-10-14 17:37:13 INFO  Keywords:66 - ClickOnLink is called
+2020-10-14 17:37:13 INFO  Keywords:213 - Waiting for webElement...googlepage.Searchbox
+2020-10-14 17:37:13 INFO  Keywords:216 - Element found...googlepage.Searchbox
