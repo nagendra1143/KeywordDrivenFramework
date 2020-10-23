@@ -83,3 +83,7 @@
 2020-10-14 17:37:13 INFO  Keywords:66 - ClickOnLink is called
 2020-10-14 17:37:13 INFO  Keywords:213 - Waiting for webElement...googlepage.Searchbox
 2020-10-14 17:37:13 INFO  Keywords:216 - Element found...googlepage.Searchbox
+2020-10-23 10:44:57 INFO  Keywords:35 - Navigate is called
+2020-10-23 10:45:02 INFO  Keywords:66 - ClickOnLink is called
+2020-10-23 10:45:02 INFO  Keywords:213 - Waiting for webElement...googlepage.Searchbox
+2020-10-23 10:45:02 INFO  Keywords:216 - Element found...googlepage.Searchbox
